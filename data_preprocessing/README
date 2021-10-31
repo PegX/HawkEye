@@ -1,0 +1,14 @@
+In this folder we provide the code and tutorials how to extract control flow, data flow graph from the executible file.
+
+
+## Prepare the CFG with Angr
+1. Install Angr. In our work we use the 8.9.7.25 verion.
+2. Install the angr-util and bingraphviz by source code
+        cd angr-dev
+        git clone https://github.com/axt/bingraphvis
+        pip install -e ./bingraphvis
+        git clone https://github.com/axt/angr-utils
+        pip install -e ./angr-utils
+3. Install all the dependencies, such as pyvex, pygraphviz. Here use pip install
+4. Please replace the same files with our replacing files in replace_file folder.
+5. Prepare the executible file

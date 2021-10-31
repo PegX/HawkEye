@@ -3,6 +3,8 @@ This is the implementation repo of our ICANN paper.
 Please refer to the paper firstly.
 HawkEye: Cross-Platform Malware Detection with Representation Learning on Graphs
 https://cys.ewi.tudelft.nl/~zarras/files/ICANN_2021_HawkEye.pdf
+or
+https://www.sec.in.tum.de/i20/publications/hawkeye-cross-platform-malware-detection-with-representation-learning-on-graphs/@@download/file/HawkEye.pdf
 
 Please cite this paper if you want to refer to it.
 author = { Peng Xu and Youyi Zhang and Claudia Eckert and Apostolis Zarras },

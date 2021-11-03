@@ -15,7 +15,7 @@ In this folder we provide the code and tutorials how to extract control flow, da
    For example, put the executible files under ../angr-dev/angr-utils/examples/scfg_winpe_new/samples
 6. run the script files in the same folder with execuitable files. 
    In our case, that is ../angr-dev/angr-utils/examples/scfg_winpe_new/run.sh
-7. There are three new Termin will appeared, and the ".cfg" will generate as the final output of this part of code
+7. There are three new Terminal will appear, and the ".cfg" will generate as the final output of this part of code
 
 
 This part of code is written by Youyi Zhang, please contract with him directly if you need with zhangyouyi@yahoo.com
